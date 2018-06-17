@@ -1,5 +1,5 @@
 # Blackjack
-A basic implementation of Blackjack developed in Java &amp; Swing API
+A simple game of Blackjack developed in Java with the Swing API.
 
 ## How to play
 Simply run the .jar file. 
