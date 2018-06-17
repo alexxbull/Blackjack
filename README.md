@@ -11,7 +11,7 @@ Otherwise compile the Blackjack.java file and run it.
 - If a hand contains an Ace and busts (>21), the Ace value (11) will be counted as 1
 
 ## Screenshots
-[Blackjack Gameplay](https://raw.githubusercontent.com/alexxbull/Blackjack/master/Screenshots/gameplay.png)
+[Blackjack Gameplay](Screenshots/gameplay.png)
 
 ## Possible Improvements
 - [ ] Implement proper splitting of an Ace
