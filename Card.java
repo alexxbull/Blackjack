@@ -1,5 +1,5 @@
-/*	
-	Author: Alexx Bull
+/*
+    Author: Alexx Bull
 	
     Credits to Byron Knoll for the card images:
     https://byronknoll.blogspot.com/2011/03/vector-playing-cards.html
